@@ -126,7 +126,7 @@ function IndexNavbar() {
               <Button
                 className="btn-round"
                 color="danger"
-                href="https://www.creative-tim.com/product/paper-kit-pro-react?ref=pkr-index-navbar"
+                href="#"
                 target="_blank"
               >
                 <i className="nc-icon nc-spaceship"></i> coming soon
