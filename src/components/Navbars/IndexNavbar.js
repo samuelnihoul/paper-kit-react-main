@@ -95,18 +95,18 @@ function IndexNavbar() {
             <NavItem>
               <NavLink
                 data-placement="bottom"
-                href="https://www.instagram.com/CreativeTimOfficial?ref=creativetim"
+                href="https://linkedin.com/in/empatia-sha"
                 target="_blank"
-                title="Follow us on Instagram"
+                title="LinkedIn"
               >
                 <i className="fa fa-linkedin" />
-                <p className="d-lg-none">Instagram</p>
+                <p className="d-lg-none">LinkedIn</p>
               </NavLink>
             </NavItem>
             <NavItem>
               <NavLink
                 data-placement="bottom"
-                href="https://www.github.com/CreativeTimOfficial/paper-kit-react?ref=creativetim"
+                href="https://www.github.com/empatia-sha"
                 target="_blank"
                 title="Star on GitHub"
               >
