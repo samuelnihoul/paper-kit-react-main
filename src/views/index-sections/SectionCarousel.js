@@ -74,7 +74,7 @@ function SectionCarousel() {
     setActiveIndex(newIndex);
   };
   return (
-      <><h1 style={{tetxAlign: 'center'}}>Our projects</h1>
+      <><h1 style={{textAlign: 'center'}}>Our projects</h1>
       <div className="section pt-o" id="carousel">
         <Container>
           <Row>
