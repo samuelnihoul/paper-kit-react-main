@@ -58,7 +58,7 @@ function DemoFooter() {
           <div className="credits ml-auto">
             <span className="copyright">
               © {new Date().getFullYear()}, made with{" "}
-              <i className="fa fa-heart heart" /> by 
+              <i className="fa fa-heart heart" /> by harmonia-eko
             </span>
           </div>
         </Row>
