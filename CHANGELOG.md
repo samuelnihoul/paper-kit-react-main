@@ -63,8 +63,8 @@ _npm WARN @babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining@7.13.12
 ### Added components
 ### Deleted dependencies
 ### Added dependencies
-+ gulp@4.0.2 (for Creative Tim copyrights)
-+ gulp-append-prepend@1.0.8 (for Creative Tim copyrights)
++ gulp@4.0.2 (for  copyrights)
++ gulp-append-prepend@1.0.8 (for  copyrights)
 ### Updated dependencies
 ```
 moment             2.24.0   →    2.26.0
@@ -86,4 +86,4 @@ _Warnings might appear while doing an npm install - they do not affect the UI or
 ## [1.0.0] 2019-06-26
 ### Original Release
 - Added Reactstrap as base framework
-- Added design from Paper Kit 2 by Creative Tim
+- Added design from Paper Kit 2 by 

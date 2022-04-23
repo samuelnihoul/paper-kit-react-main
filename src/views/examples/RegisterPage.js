@@ -6,10 +6,10 @@
 
 * Product Page: https://www.creative-tim.com/product/paper-kit-react
 
-* Copyright 2021 Creative Tim (https://www.creative-tim.com)
+* Copyright 2021  (https://www.creative-tim.com)
 * Licensed under MIT (https://github.com/creativetimofficial/paper-kit-react/blob/main/LICENSE.md)
 
-* Coded by Creative Tim
+* Coded by 
 
 =========================================================
 
@@ -100,7 +100,7 @@ function RegisterPage() {
         <div className="footer register-footer text-center">
           <h6>
             © {new Date().getFullYear()}, made with{" "}
-            <i className="fa fa-heart heart" /> by Creative Tim
+            <i className="fa fa-heart heart" /> by 
           </h6>
         </div>
       </div>

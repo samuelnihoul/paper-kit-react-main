@@ -175,7 +175,7 @@ We use GitHub Issues as the official bug tracker for the Paper Kit 2. Here are s
 
 ## Licensing
 
-- Copyright 2021 Creative Tim (https://www.creative-tim.com/?ref=pkr-github-readme)
+- Copyright 2021  (https://www.creative-tim.com/?ref=pkr-github-readme)
 
 [CHANGELOG]: ./CHANGELOG.md
 [LICENSE]: ./LICENSE.md
@@ -184,13 +184,13 @@ We use GitHub Issues as the official bug tracker for the Paper Kit 2. Here are s
 
 - [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
 - [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=pkr-github-readme) (earn money)
-- [Blog Creative Tim](http://blog.creative-tim.com/?ref=pkr-github-readme)
-- [Free Products](https://www.creative-tim.com/bootstrap-themes/free?ref=pkr-github-readme) from Creative Tim
-- [Premium Products](https://www.creative-tim.com/bootstrap-themes/premium?ref=pkr-github-readme) from Creative Tim
-- [React Products](https://www.creative-tim.com/bootstrap-themes/react-themes?ref=pkr-github-readme) from Creative Tim
-- [Angular Products](https://www.creative-tim.com/bootstrap-themes/angular-themes?ref=pkr-github-readme) from Creative Tim
-- [VueJS Products](https://www.creative-tim.com/bootstrap-themes/vuejs-themes?ref=pkr-github-readme) from Creative Tim
-- [More products](https://www.creative-tim.com/bootstrap-themes?ref=pkr-github-readme) from Creative Tim
+- [Blog ](http://blog.creative-tim.com/?ref=pkr-github-readme)
+- [Free Products](https://www.creative-tim.com/bootstrap-themes/free?ref=pkr-github-readme) from 
+- [Premium Products](https://www.creative-tim.com/bootstrap-themes/premium?ref=pkr-github-readme) from 
+- [React Products](https://www.creative-tim.com/bootstrap-themes/react-themes?ref=pkr-github-readme) from 
+- [Angular Products](https://www.creative-tim.com/bootstrap-themes/angular-themes?ref=pkr-github-readme) from 
+- [VueJS Products](https://www.creative-tim.com/bootstrap-themes/vuejs-themes?ref=pkr-github-readme) from 
+- [More products](https://www.creative-tim.com/bootstrap-themes?ref=pkr-github-readme) from 
 - Check our Bundles [here](https://www.creative-tim.com/bundles?ref=pkr-github-readme)
 
 ### Social Media

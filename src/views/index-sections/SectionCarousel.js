@@ -6,10 +6,10 @@
 
 * Product Page: https://www.creative-tim.com/product/paper-kit-react
 
-* Copyright 2021 Creative Tim (https://www.creative-tim.com)
+* Copyright 2021  (https://www.creative-tim.com)
 * Licensed under MIT (https://github.com/creativetimofficial/paper-kit-react/blob/main/LICENSE.md)
 
-* Coded by Creative Tim
+* Coded by 
 
 =========================================================
 
@@ -74,7 +74,7 @@ function SectionCarousel() {
     setActiveIndex(newIndex);
   };
   return (
-    <>
+      <><h1 style={{tetxAlign: 'center'}}>Our projects</h1>
       <div className="section pt-o" id="carousel">
         <Container>
           <Row>
