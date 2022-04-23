@@ -35,18 +35,18 @@ import {
 const items = [
   {
     src: require("assets/img/soroush-karimi.jpg").default,
-    altText: "Somewhere",
-    caption: "Somewhere",
+    altText: "no-ko",
+    caption: "no-ko",
   },
   {
     src: require("assets/img/federico-beccari.jpg").default,
-    altText: "Somewhere else",
-    caption: "Somewhere else",
+    altText: "chatibot",
+    caption: "chatibot",
   },
   {
     src: require("assets/img/joshua-stannard.jpg").default,
-    altText: "Here it is",
-    caption: "Here it is",
+    altText: "safari-nove",
+    caption: "safari-nove",
   },
 ];
 
