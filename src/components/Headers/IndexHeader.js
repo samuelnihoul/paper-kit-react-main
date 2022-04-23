@@ -53,7 +53,7 @@ function IndexHeader() {
               </div>
             </div>
             <h2 className="presentation-subtitle text-center">
-              ecology is empathy
+              Ecology is empathy.
             </h2>
           </Container>
         </div>
